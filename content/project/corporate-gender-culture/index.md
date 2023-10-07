@@ -1,12 +1,12 @@
 ---
 title: Corporate Gender Culture
-date: 2023-10-07T17:07:57.911Z
+date: 2021-07-08T17:07:57.911Z
 draft: false
 featured: false
 authors:
   - Renee B. Adams
   - Ali C. Akyol
-  - and Pauline Grosjean
+  - Pauline Grosjean
 tags:
   - corporate gender culture firm performance gender diversity gender
     differentiation textual analysis
