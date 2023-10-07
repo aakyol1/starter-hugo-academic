@@ -1,6 +1,6 @@
 ---
 # Leave the homepage title empty to use the site title
-title: Ali C. Akyol
+title: Ali Akyol
 date: 2022-10-24
 type: landing
 
@@ -41,10 +41,6 @@ sections:
   - block: collection
     content:
       title: Publications
-      text: |-
-        {{% callout note %}}
-        Quickly discover relevant content by [filtering publications](./publication/).
-        {{% /callout %}}
       filters:
         folders:
           - publication
@@ -62,10 +58,10 @@ sections:
       # Contact (add or remove contact options as necessary)
       email: akyol (at) telfer (dot) uottawa (dot) ca
       contact_links:
-        - icon: twitter
-          icon_pack: fab
-          name: DM Me
-          link: 'https://twitter.com/Twitter'
+        - icon: google-scholar
+          icon_pack: academicons
+          name: Google Scholar
+          link: 'https://scholar.google.com.au/citations?user=jo6u02UAAAAJ'
         - icon: skype
           icon_pack: fab
           name: Skype Me
@@ -76,14 +72,6 @@ sections:
           link: 'https://zoom.com'
       # Automatically link email and phone or display as text?
       autolink: true
-      # Email form provider
-      form:
-        provider: netlify
-        formspree:
-          id:
-        netlify:
-          # Enable CAPTCHA challenge to reduce spam?
-          captcha: false
     design:
       columns: '2'
 ---
