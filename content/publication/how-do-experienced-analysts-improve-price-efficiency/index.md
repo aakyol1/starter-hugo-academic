@@ -1,6 +1,6 @@
 ---
 title: How do experienced analysts improve price efficiency?
-subtitle: test
+subtitle: ""
 publication_types:
   - "2"
 authors:
