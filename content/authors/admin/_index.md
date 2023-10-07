@@ -22,8 +22,8 @@ social:
   - display:
       header: false
     icon_pack: ai
-    icon: https://papers.ssrn.com/sol3/cf_dev/AbsByAuth.cfm?per_id=523338
-    link: SSRN
+    icon: ssrn
+    link: https://papers.ssrn.com/sol3/cf_dev/AbsByAuth.cfm?per_id=523338
 organizations:
   - name: University of Ottawa
     url: https://www.uottawa.ca/en
