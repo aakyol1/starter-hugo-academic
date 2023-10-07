@@ -19,6 +19,10 @@ image:
   filename: featured
   focal_point: Smart
   preview_only: false
+
+link:
+  url_pdf: https://papers.ssrn.com/sol3/papers.cfm?abstract_id=3880650
+  
 ---
 We show workplace culture is gendered. We apply computational linguistic models to listed firms’ reports to an Australian gender-equality agency to construct the first systematic measures of ‘corporate gender culture’—firms’ practices pertaining to the treatment of women across seven dimensions, from recruitment and promotion to maternity leave and sexual harassment.
 
