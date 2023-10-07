@@ -16,7 +16,7 @@ tags:
 categories:
   - Working
 links:
-  - icon_pack: far
+  - icon_pack: fas
     url: https://papers.ssrn.com/sol3/papers.cfm?abstract_id=3880650
     icon: file-pdf
 image:
