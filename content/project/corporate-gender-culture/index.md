@@ -6,7 +6,7 @@ featured: false
 authors:
   - Renee B. Adams
   - Ali C. Akyol
-  - and Pauline Grosjean
+  - Pauline Grosjean
 tags:
   - corporate gender culture
   - firm performance
