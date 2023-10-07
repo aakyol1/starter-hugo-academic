@@ -28,8 +28,8 @@ tags:
   - analysts
   - anomalies
 image:
-  filename: featured_hu26a8bc696d9f7d26c89cd314c1ba2d7d_318362_720x2500_fit_q75_h2_lanczos.webp
+  filename: jbf.jpg
   focal_point: Smart
-  preview_only: false
+  preview_only: true
 date: 2023-10-07T02:00:32.851Z
 ---
