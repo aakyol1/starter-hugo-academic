@@ -131,7 +131,7 @@ sections:
   - block: portfolio
     id: projects
     content:
-      title: Projects
+      title: Working Papers
       filters:
         folders:
           - project
