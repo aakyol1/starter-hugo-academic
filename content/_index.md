@@ -74,7 +74,7 @@ sections:
         - icon: linkedin
           icon_pack: fab
           name: LinkedIn
-          link: 'https://publons.com/researcher/2495820/ali-c-akyol/'
+          link: 'https://ca.linkedin.com/in/ali-akyol-309a631a3'
       # Automatically link email and phone or display as text?
       autolink: true
     design:
