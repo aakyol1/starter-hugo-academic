@@ -16,18 +16,9 @@ social:
   - icon: graduation-cap
     icon_pack: fas
     link: https://scholar.google.com.au/citations?user=jo6u02UAAAAJ
-  - icon: twitter
-    icon_pack: fab
-    link: https://twitter.com/GeorgeCushen
-    label: Follow me on Twitter
-    display:
-      header: true
-  - icon: github
-    icon_pack: fab
-    link: https://github.com/gcushen
   - icon: linkedin
     icon_pack: fab
-    link: https://www.linkedin.com/
+    link: https://ca.linkedin.com/in/ali-akyol-309a631a3
   - icon: cv
     icon_pack: ai
     link: uploads/resume.pdf
