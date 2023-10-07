@@ -1,6 +1,7 @@
 ---
 title: Ali C. Akyol
 role: Professor of Artificial Intelligence
+avatar_filename: avatar_white.png
 bio: My research interests include distributed robotics, mobile computing and
   programmable matter.
 interests:
