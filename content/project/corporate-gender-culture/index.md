@@ -1,6 +1,6 @@
 ---
 title: Corporate Gender Culture
-date: 2021-07-01T17:07:57.911Z
+date: 2023-10-07T17:07:57.911Z
 draft: false
 featured: false
 authors:
@@ -14,12 +14,8 @@ tags:
   - gender differentiation
   - textual analysis
 categories:
-  - Working Papers
-links:
-  - icon_pack: fas
-    url: https://papers.ssrn.com/sol3/papers.cfm?abstract_id=3880650
-    icon: ""
-    name: PDF
+  - Working
+links: []
 image:
   filename: featured
   focal_point: Smart
