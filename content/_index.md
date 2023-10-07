@@ -53,23 +53,28 @@ sections:
     content:
       title: Contact
       subtitle:
-      text: |-
-        Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nam mi diam, venenatis ut magna et, vehicula efficitur enim.
-      # Contact (add or remove contact options as necessary)
       email: akyol (at) telfer (dot) uottawa (dot) ca
       contact_links:
         - icon: google-scholar
-          icon_pack: academicons
+          icon_pack: ai
           name: Google Scholar
           link: 'https://scholar.google.com.au/citations?user=jo6u02UAAAAJ'
-        - icon: skype
+        - icon: ssrn
+          icon_pack: ai
+          name: SSRN
+          link: 'https://papers.ssrn.com/sol3/cf_dev/AbsByAuth.cfm?per_id=523338'
+        - icon: orcid
+          icon_pack: ai
+          name: ORCID
+          link: 'https://orcid.org/0000-0002-3493-0359'
+        - icon: researcherid
+          icon_pack: ai
+          name: ResearcherID
+          link: 'https://publons.com/researcher/2495820/ali-c-akyol/'
+        - icon: linkedin
           icon_pack: fab
-          name: Skype Me
-          link: 'skype:echo123?call'
-        - icon: video
-          icon_pack: fas
-          name: Zoom Me
-          link: 'https://zoom.com'
+          name: LinkedIn
+          link: 'https://publons.com/researcher/2495820/ali-c-akyol/'
       # Automatically link email and phone or display as text?
       autolink: true
     design:
