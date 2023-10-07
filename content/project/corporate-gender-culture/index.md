@@ -14,7 +14,7 @@ tags:
   - gender differentiation
   - textual analysis
 categories:
-  - Working
+  - Working Papers
 image:
   filename: featured
   focal_point: Smart
