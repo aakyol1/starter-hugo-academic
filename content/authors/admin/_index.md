@@ -13,17 +13,17 @@ social:
   - icon: envelope
     icon_pack: fas
     link: /#contact
+  - display:
+      header: false
+    icon_pack: ai
+    icon: ssrn
+    link: https://papers.ssrn.com/sol3/cf_dev/AbsByAuth.cfm?per_id=523338
   - icon: google-scholar
     icon_pack: fas
     link: https://scholar.google.com.au/citations?user=jo6u02UAAAAJ
   - icon: linkedin
     icon_pack: fab
     link: https://ca.linkedin.com/in/ali-akyol-309a631a3
-  - display:
-      header: false
-    icon_pack: ai
-    icon: ssrn
-    link: https://papers.ssrn.com/sol3/cf_dev/AbsByAuth.cfm?per_id=523338
 organizations:
   - name: University of Ottawa
     url: https://www.uottawa.ca/en
