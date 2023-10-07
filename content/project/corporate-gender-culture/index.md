@@ -1,6 +1,6 @@
 ---
 title: Corporate Gender Culture
-date: 2021-07-08T17:07:57.911Z
+date: 2021-07-04T00:00:00Z
 draft: false
 featured: false
 authors:
