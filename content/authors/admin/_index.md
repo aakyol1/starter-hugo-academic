@@ -1,6 +1,6 @@
 ---
 title: Ali C. Akyol
-role: "Associate Professor of Finance, Telfer School of Management "
+role: "Associate Professor of Finance "
 avatar_filename: avatar.jpg
 bio: ""
 interests:
@@ -24,6 +24,8 @@ social:
     icon_pack: fab
     link: https://ca.linkedin.com/in/ali-akyol-309a631a3
 organizations:
+  - name: "Telfer School of Management "
+    url: https://telfer.uottawa.ca/en/
   - name: University of Ottawa
     url: https://www.uottawa.ca/en
 education:
