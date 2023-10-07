@@ -19,7 +19,7 @@ social:
     icon: ssrn
     link: https://papers.ssrn.com/sol3/cf_dev/AbsByAuth.cfm?per_id=523338
   - icon: google-scholar
-    icon_pack: fas
+    icon_pack: ai
     link: https://scholar.google.com.au/citations?user=jo6u02UAAAAJ
   - icon: linkedin
     icon_pack: fab
