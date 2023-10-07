@@ -12,17 +12,27 @@ social:
   - icon: envelope
     icon_pack: fas
     link: /#contact
+  - icon: google-scholar
+    icon_pack: ai
+    link: https://scholar.google.com.au/citations?user=jo6u02UAAAAJ
   - display:
       header: false
     icon_pack: ai
     icon: ssrn
     link: https://papers.ssrn.com/sol3/cf_dev/AbsByAuth.cfm?per_id=523338
-  - icon: google-scholar
-    icon_pack: ai
-    link: https://scholar.google.com.au/citations?user=jo6u02UAAAAJ
   - icon: linkedin
     icon_pack: fab
     link: https://ca.linkedin.com/in/ali-akyol-309a631a3
+  - display:
+      header: false
+    link: https://orcid.org/0000-0002-3493-0359
+    icon_pack: ai
+    icon: orcid
+  - display:
+      header: false
+    link: https://publons.com/researcher/2495820/ali-c-akyol/
+    icon_pack: ai
+    icon: researcherid
 organizations:
   - name: Telfer School of Management
     url: https://telfer.uottawa.ca/en/
