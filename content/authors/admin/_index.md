@@ -34,8 +34,8 @@ organizations:
     url: https://telfer.uottawa.ca/en/
   - name: University of Ottawa
     url: https://www.uottawa.ca/en
-education:
-  courses: []
+# education:
+#  courses: []
 superuser: true
 status:
   icon: ☕️
