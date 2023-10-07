@@ -19,12 +19,9 @@ social:
   - icon: linkedin
     icon_pack: fab
     link: https://ca.linkedin.com/in/ali-akyol-309a631a3
-  - icon: cv
-    icon_pack: ai
-    link: uploads/resume.pdf
 organizations:
-  - name: Stanford University
-    url: https://www.stanford.edu/
+  - name: University of Ottawa
+    url: https://www.uottawa.ca/en
 education:
   courses:
     - course: PhD in Artificial Intelligence
