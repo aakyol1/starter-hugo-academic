@@ -32,10 +32,10 @@ education:
 superuser: true
 status:
   icon: ☕️
-last_name: Wu
+last_name: Akyol
 highlight_name: true
 first_name: Ali
-email: ""
+email: "akyol (at) telfer (dot) uottawa (dot) ca"
 ---
 I am an Associate Professor in Finance at the [Telfer School of Management](https://telfer.uottawa.ca/en/) at the [University of Ottawa](https://www.uottawa.ca/en). My research mainly focuses on the effect of governance related regulations, the board of directors, firm disclosure and financial misconduct on shareholder value. My recent work examines the composition of the boards of directors and uses new and novel data that enhances our understanding of how board members interact with each other.
 
