@@ -45,7 +45,7 @@ header:
 
 footer:
   copyright:
-    notice: '© {year} Ali Akyol. This work is licensed under {license}'
+    notice: '© {year} Ali Akyol.'
     license:
       enable: false
       allow_derivatives: false
