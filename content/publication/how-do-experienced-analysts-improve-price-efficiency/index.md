@@ -2,7 +2,7 @@
 title: How do experienced analysts improve price efficiency?
 subtitle: ""
 publication_types:
-  - "4"
+  - "2"
 authors:
   - Ali C. Akyol
   - Yiming Qian
