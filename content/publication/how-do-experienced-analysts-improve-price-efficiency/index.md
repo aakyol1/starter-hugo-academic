@@ -10,7 +10,7 @@ authors:
   - Frank Yu
 doi: https://doi.org/10.1016/j.jbankfin.2023.106798
 publication: Journal of Banking & Finance
-publication_short: JBF
+publication_short: 
 abstract: We document that return anomalies related to management discretions
   are mitigated for firms followed by more experienced analysts. Nonetheless,
   only experience directly covering the firm matters while experience covering
