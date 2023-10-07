@@ -31,6 +31,6 @@ tags:
 image:
   filename: jbf.jpg
   focal_point: Smart
-  preview_only: true
+  preview_only: false
 date: 2023-10-07T02:00:32.851Z
 ---
