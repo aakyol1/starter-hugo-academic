@@ -1,16 +1,15 @@
 ---
 title: How do experienced analysts improve price efficiency?
-summary: Experienced analysts help mitigate return anomalies. Our results suggest that experienced analysts primarily reduce accrual mispricing through monitoring.
 subtitle: ""
 publication_types:
-  - "2"
+  - "4"
 authors:
   - Ali C. Akyol
   - Yiming Qian
   - Frank Yu
 doi: https://doi.org/10.1016/j.jbankfin.2023.106798
 publication: Journal of Banking & Finance
-publication_short: 
+publication_short: null
 abstract: We document that return anomalies related to management discretions
   are mitigated for firms followed by more experienced analysts. Nonetheless,
   only experience directly covering the firm matters while experience covering
@@ -33,11 +32,14 @@ tags:
   - monitoring
 categories:
   - Publications
+projects:
+  - corporate-gender-culture
 image:
   filename: featured.jpg
   focal_point: Smart
   preview_only: true
+summary: Experienced analysts help mitigate return anomalies. Our results
+  suggest that experienced analysts primarily reduce accrual mispricing through
+  monitoring.
 date: 2023-10-07T02:00:32.851Z
-projects:
-  - corporate-gender-culture
 ---
