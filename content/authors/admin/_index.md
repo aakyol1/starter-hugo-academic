@@ -39,13 +39,7 @@ organizations:
   - name: University of Ottawa
     url: https://www.uottawa.ca/en
 education:
-  courses:
-    - course: PhD in Finance
-      institution: University of Alabama
-      year: 2007
-    - course: BA in Business Administration
-      institution: Koç University
-      year: 2001
+  courses: []
 superuser: true
 status:
   icon: ☕️
