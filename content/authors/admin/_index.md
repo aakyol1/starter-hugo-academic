@@ -19,20 +19,16 @@ social:
   - icon: linkedin
     icon_pack: fab
     link: https://ca.linkedin.com/in/ali-akyol-309a631a3
+  - display:
+      header: false
+    icon_pack: ai
+    icon: https://papers.ssrn.com/sol3/cf_dev/AbsByAuth.cfm?per_id=523338
+    link: SSRN
 organizations:
   - name: University of Ottawa
     url: https://www.uottawa.ca/en
 education:
-  courses:
-    - course: PhD in Artificial Intelligence
-      institution: Stanford University
-      year: 2012
-    - course: MEng in Artificial Intelligence
-      institution: Massachusetts Institute of Technology
-      year: 2009
-    - course: BSc in Artificial Intelligence
-      institution: Massachusetts Institute of Technology
-      year: 2008
+  courses: []
 superuser: true
 status:
   icon: ☕️
