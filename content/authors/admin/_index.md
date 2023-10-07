@@ -1,6 +1,6 @@
 ---
 title: Ali C. Akyol
-role: "Associate Professor of Finance Telfer School of Management "
+role: "Associate Professor of Finance, Telfer School of Management "
 avatar_filename: avatar.jpg
 bio: ""
 interests:
