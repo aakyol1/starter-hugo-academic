@@ -20,7 +20,7 @@ image:
   focal_point: Smart
   preview_only: false
 
-link:
+links:
   url_pdf: https://papers.ssrn.com/sol3/papers.cfm?abstract_id=3880650
   
 ---
