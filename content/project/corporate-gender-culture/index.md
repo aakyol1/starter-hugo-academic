@@ -1,5 +1,5 @@
 ---
-title: Corporate Gender Culture
+title: Corporate gender culture
 summary: We use computational linguistic models to create the first systematic measures of 'corporate gender culture' in Australian firms and find that workplace culture is gendered. Our findings indicate that firms exhibit systematic gender differentiation, with variations across industries, and the cultural dimension that most influences women's representation in leadership and firm performance is the equality of training opportunities.
 date: 2021-07-04T00:00:00Z
 draft: false
