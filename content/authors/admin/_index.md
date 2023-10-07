@@ -3,11 +3,7 @@ title: Ali Akyol
 role: Associate Professor of Finance
 avatar_filename: avatar.jpg
 bio: ""
-interests:
-  - Corporate finance
-  - Corporate governance
-  - Corporate disclosure
-  - Textual analysis
+interests: []
 social:
   - icon: envelope
     icon_pack: fas
