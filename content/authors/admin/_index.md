@@ -13,7 +13,7 @@ social:
   - icon: envelope
     icon_pack: fas
     link: /#contact
-  - icon: graduation-cap
+  - icon: google-scholar
     icon_pack: fas
     link: https://scholar.google.com.au/citations?user=jo6u02UAAAAJ
   - icon: linkedin
