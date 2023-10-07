@@ -41,5 +41,5 @@ image:
 summary: Experienced analysts help mitigate return anomalies. Our results
   suggest that experienced analysts primarily reduce accrual mispricing through
   monitoring.
-date: 2023-10-07T02:00:32.851Z
+date: "2015-09-01T00:00:00Z"
 ---
