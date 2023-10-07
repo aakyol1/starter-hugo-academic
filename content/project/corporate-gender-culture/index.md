@@ -15,7 +15,9 @@ tags:
   - textual analysis
 categories:
   - Working
-links: []
+links:
+  - url: https://papers.ssrn.com/sol3/papers.cfm?abstract_id=3880650
+    name: PDF
 image:
   filename: featured
   focal_point: Smart
