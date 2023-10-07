@@ -1,7 +1,7 @@
 ---
 title: Ali C. Akyol
-role: Professor of Artificial Intelligence
-avatar_filename: avatar_white.png
+role: Associate Professor of Finance Telfer School of Management University of Ottawa
+avatar_filename: avatar.jpg
 bio: My research interests include distributed robotics, mobile computing and
   programmable matter.
 interests:
@@ -52,6 +52,6 @@ highlight_name: true
 first_name: Alice
 email: ""
 ---
+I am an Associate Professor in Finance at the [Telfer School of Management](https://telfer.uottawa.ca/en/) at the [University of Ottawa](https://www.uottawa.ca/en). My research mainly focuses on the effect of governance related regulations, the board of directors, firm disclosure and financial misconduct on shareholder value. My recent work examines the composition of the boards of directors and uses new and novel data that enhances our understanding of how board members interact with each other.
 
-Alice Wu is a professor of artificial intelligence at the Stanford AI Lab. Her research interests include distributed robotics, mobile computing and programmable matter. She leads the Robotic Neurobiology group, which develops self-reconfiguring robots, systems of self-organizing robots, and mobile sensor networks.
-{style="text-align: justify;"}
+My research papers have been presented at many academic conferences and seminar series around the world. My research has also been recognized with various research grants and awards, including the Best Paper Award in Corporate Finance in the 2014 FMA Asia Meetings for my co-authored paper on director skills. My work has appeared in leading academic journals, such as the Journal of Financial Economics and the Journal of Financial and Quantitative Analysis.
