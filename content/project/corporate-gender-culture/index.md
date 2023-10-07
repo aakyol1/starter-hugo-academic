@@ -18,7 +18,8 @@ categories:
 links:
   - icon_pack: fas
     url: https://papers.ssrn.com/sol3/papers.cfm?abstract_id=3880650
-    icon: file-pdf
+    icon: ""
+    name: PDF
 image:
   filename: featured
   focal_point: Smart
