@@ -11,7 +11,7 @@ tags:
   - corporate gender culture firm performance gender diversity gender
     differentiation textual analysis
 categories:
-  - working-papers
+  - [Working Papers]
 image:
   filename: featured
   focal_point: Smart
