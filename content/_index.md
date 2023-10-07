@@ -12,7 +12,7 @@ sections:
       # Choose a user profile to display (a folder name within `content/authors/`)
       username: admin
   - block: portfolio
-    id: projects
+    id: workingpapers
     content:
       title: Working Papers
       filters:
@@ -39,6 +39,7 @@ sections:
       # For Showcase view, flip alternate rows?
       flip_alt_rows: false
   - block: collection
+    id: publications
     content:
       title: Publications
       filters:
