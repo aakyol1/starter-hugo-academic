@@ -6,7 +6,7 @@ publication_types:
 authors:
   - Ali C. Akyol
   - Yiming Qian
-  - Frank Y
+  - Frank Yu
 doi: https://doi.org/10.1016/j.jbankfin.2023.106798
 publication: Journal of Banking & Finance
 publication_short: JBF
