@@ -1,5 +1,6 @@
 ---
 title: How do experienced analysts improve price efficiency?
+summary: Experienced analysts help mitigate return anomalies. Our suggests that experienced analysts primarily reduce accrual mispricing through monitoring.
 subtitle: ""
 publication_types:
   - "2"
