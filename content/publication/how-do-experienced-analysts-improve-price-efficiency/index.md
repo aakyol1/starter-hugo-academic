@@ -28,6 +28,8 @@ featured: false
 tags:
   - analysts
   - anomalies
+categories:
+  - Publications
 image:
   filename: jbf.jpg
   focal_point: Smart
