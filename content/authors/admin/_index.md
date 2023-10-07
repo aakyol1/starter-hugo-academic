@@ -44,9 +44,15 @@ highlight_name: true
 first_name: Ali
 email: akyol (at) telfer (dot) uottawa (dot) ca
 ---
+<!--StartFragment-->
+
+&nbsp;
 
 
 
+
+
+<!--EndFragment-->
 
 I am an Associate Professor in Finance at the [Telfer School of Management](https://telfer.uottawa.ca/en/) at the [University of Ottawa](https://www.uottawa.ca/en). My research mainly focuses on the effect of governance related regulations, the board of directors, firm disclosure and financial misconduct on shareholder value. 
 
