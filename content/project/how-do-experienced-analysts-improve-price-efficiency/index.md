@@ -17,7 +17,7 @@ authors:
   - Frank Yu
 external_link: https://www.sciencedirect.com/science/article/abs/pii/S0378426623000250
 image:
-  filename: featured
+  filename: featured_hu26a8bc696d9f7d26c89cd314c1ba2d7d_318362_720x2500_fit_q75_h2_lanczos.webp
   focal_point: Smart
   preview_only: false
 ---
