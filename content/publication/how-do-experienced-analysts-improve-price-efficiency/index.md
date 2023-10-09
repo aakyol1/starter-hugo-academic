@@ -32,8 +32,6 @@ tags:
   - monitoring
 categories:
   - Publications
-projects:
-  - corporate-gender-culture
 image:
   filename: featured.jpg
   focal_point: Smart
