@@ -1,5 +1,5 @@
 ---
-title: "Stock Returns around Non-Trading Periods: Evidence from an Emerging Market"
+title: "Stock returns around non-trading periods: Evidence from an emerging market"
 publication_types:
   - "article-journal"
 authors:
@@ -33,6 +33,6 @@ image:
   filename: featured.jpg
   focal_point: Smart
   preview_only: true
-summary: test
+summary: I analyze intraday stock returns in the Istanbul Stock Exchange (ISE) during nontrading periods. Results show positive returns on Friday afternoons and negative returns on Monday mornings. The weekend effect in the ISE has recently disappeared, and longer nontrading periods affect returns.
 date: "2011-07-01T00:00:00Z"
 ---
