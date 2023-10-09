@@ -1,8 +1,7 @@
 ---
 title: "Stock Returns around Non-Trading Periods: Evidence from an Emerging Market"
 publication_types:
-  - "0"
-  - "2"
+  - "article-journal"
 authors:
   - Ali C. Akyol
 doi: https://doi.org/https://doi.org/10.1080/09603107.2011.583214
@@ -33,6 +32,7 @@ categories:
 image:
   filename: featured.jpg
   focal_point: Smart
-  preview_only: false
-date: 2023-10-09T01:39:49.323Z
+  preview_only: true
+summary: test
+date: "2011-07-01T00:00:00Z"
 ---
