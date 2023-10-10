@@ -1,7 +1,7 @@
 ---
-title: Human capital costs, firm leverage, and unemployment Rates
+title: Human capital costs, firm leverage, and unemployment rates
 publication_types:
-  - "2"
+  - "article-journal"
 authors:
   - Ali C. Akyol
   - Patrick Verwijmeren
@@ -32,5 +32,5 @@ summary: Higher firm leverage is linked to higher employee wages in both the
   United States and the Netherlands. This effect is strongest in the 21st
   century in the United States, reflecting the impact of higher unemployment
   rates.
-date: 2023-10-10T17:45:04.821Z
+date: "2013-01-01T00:00:00Z"
 ---
