@@ -18,7 +18,7 @@ abstract: We show that companies that use search firms to find board members pay
   distance of companies to executive search firms. Using this instrumental
   variable framework, we show search firm-identified independent directors’
   negative impact on firm performance, consistent with firm behavior and
-  governance consequences we document.
+  governance consequences we document. test
 draft: false
 featured: false
 tags:
