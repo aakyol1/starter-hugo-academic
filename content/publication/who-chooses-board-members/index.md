@@ -1,7 +1,7 @@
 ---
 title: Who chooses board members?
 publication_types:
-  - "6"
+  - "section-Book"
 authors:
   - Ali C. Akyol
   - Lauren Cohen
@@ -37,5 +37,5 @@ summary: Companies using search firms for board members pay CEOs higher salaries
   poor performance and more likely to engage in M&A with low returns. Using
   geographic distance as an instrument, we find search firm-identified directors
   negatively impact firm performance and governance.
-date: 2023-10-10T17:53:58.383Z
+date: "2013-12-01T00:00:00Z"
 ---
