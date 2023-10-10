@@ -1,7 +1,7 @@
 ---
 title: Who chooses board members?
 publication_types:
-  - "section-Book"
+  - "section-book"
 authors:
   - Ali C. Akyol
   - Lauren Cohen
