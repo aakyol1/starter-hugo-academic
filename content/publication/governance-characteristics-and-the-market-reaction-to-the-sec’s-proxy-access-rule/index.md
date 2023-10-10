@@ -2,7 +2,7 @@
 title: Governance characteristics and the market reaction to the SEC’s proxy
   access rule
 publication_types:
-  - "2"
+  - "article-journal"
 authors:
   - Ali C. Akyol
   - Wei Fen Lim
@@ -34,5 +34,6 @@ image:
   filename: featured.jpg
   focal_point: Smart
   preview_only: true
-date: 2023-10-10T01:31:30.411Z
+summary: We analyze the SEC's proxy access rule and its impact on shareholder wealth focusing on firms' governance characteristics. Firms with a high probability of being targeted have more negative returns while independent directors and non-cash compensation positively influence the market's reaction. Smaller boards have less negative impact, suggesting the rule isn't seen as value-enhancing by marginal shareholders. 
+date: "2012-01-01T00:00:00Z"
 ---
