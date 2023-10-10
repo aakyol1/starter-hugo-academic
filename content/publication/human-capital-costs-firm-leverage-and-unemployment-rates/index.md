@@ -5,7 +5,7 @@ publication_types:
 authors:
   - Ali C. Akyol
   - Patrick Verwijmeren
-doi: https://doi.org/https://doi.org/10.1016/j.jfi.2013.04.003
+doi: https://doi.org/10.1016/j.jfi.2013.04.003
 publication: Journal of Financial Intermediation
 abstract: Because bankruptcy is costly for employees, theoretical studies argue
   that firms with higher leverage have to pay their employees higher wages. In
