@@ -2,7 +2,7 @@
 title: "Shareholders in the boardroom: Wealth effects of the SEC’s rule to
   facilitate director nominations"
 publication_types:
-  - "2"
+  - "article-journal"
 authors:
   - Ali C. Akyol
   - Wei Fen Lim
@@ -37,5 +37,5 @@ image:
 summary: "We examine SEC's director nomination rule's wealth effects. Results
   contradict shareholder empowerment creating value: Abnormal returns are
   negative for events increasing passage probability."
-date: 2023-10-10T01:44:05.079Z
+date: "2012-01-01T00:00:00Z"
 ---
