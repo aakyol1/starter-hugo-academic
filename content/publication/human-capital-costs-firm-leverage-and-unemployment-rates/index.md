@@ -32,5 +32,5 @@ summary: Higher firm leverage is linked to higher employee wages in both the
   United States and the Netherlands. This effect is strongest in the 21st
   century in the United States, reflecting the impact of higher unemployment
   rates.
-date: "2013-01-01T00:00:00Z"
+date: "2013-07-01T00:00:00Z"
 ---
