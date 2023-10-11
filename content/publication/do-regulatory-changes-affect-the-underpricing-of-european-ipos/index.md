@@ -8,7 +8,7 @@ authors:
   - Michele Meoli
   - Silvio Vismara
 doi: https://doi.org/10.1016/j.jbankfin.2014.04.020
-publication: " Journal of Banking and Finance"
+publication: "Journal of Banking and Finance"
 publication_short: ""
 abstract: We use a sample of 3677 European IPOs during the period 1998–2012 to
   examine how the adoptions of corporate governance codes by Member States of
