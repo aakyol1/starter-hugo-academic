@@ -6,7 +6,7 @@ authors:
   - Ali C. Akyol
   - Jin San Kim
   - Chander Shekhar
-doi: https://doi.org/https://doi.org/10.1111/irfi.12035
+doi: https://doi.org/10.1111/irfi.12035
 publication: " International Review of Finance"
 abstract: We examine the choice between accelerated share repurchase (ASR) and
   open market repurchase (OMR) as repurchase mechanisms between 2004 and 2007.
