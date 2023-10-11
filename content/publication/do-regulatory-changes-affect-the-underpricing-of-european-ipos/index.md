@@ -1,13 +1,13 @@
 ---
 title: Do regulatory changes affect the underpricing of european IPOs?
 publication_types:
-  - "2"
+  - "article-journal"
 authors:
   - Ali C. Akyol
   - Tommy Cooper
   - Michele Meoli
   - Silvio Vismara
-doi: https://doi.org/https://doi.org/10.1016/j.jbankfin.2014.04.020
+doi: https://doi.org/10.1016/j.jbankfin.2014.04.020
 publication: " Journal of Banking and Finance"
 publication_short: ""
 abstract: We use a sample of 3677 European IPOs during the period 1998–2012 to
@@ -39,11 +39,11 @@ categories:
 image:
   filename: featured.jpg
   focal_point: Smart
-  preview_only: false
+  preview_only: true
 summary: We analyze 3677 European IPOs from 1998 to 2012. When Member States in
   the EU implemented governance codes like SOX, IPO underpricing decreased on
   their regulated markets compared to exchange-regulated ones. Improved
   governance enhances transparency and reduces information asymmetries in IPO
   valuations.
-date: 2023-10-11T17:50:24.244Z
+date: 2014-08-01T00:00:00Z
 ---
