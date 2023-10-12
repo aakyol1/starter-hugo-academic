@@ -31,8 +31,8 @@ image:
   preview_only: true
 summary: We examine directors' skill diversity, through Regulation S-K's
   requirements, and report that skill diversity varies across boards. Greater
-  commonality in skill sets correlates with improved firm performance
-date: "2018-12-00T00:00:00.000Z"
+  commonality in skill sets correlates with improved firm performance.
+date: 2017-05-00T00:00:00.000Z
 ---
 - Best Paper Award in Corporate Finance in the 2014 FMA Asia Meetings.
 - Shortlisted for the Best Paper Award in Corporate Finance in the 2015 FMA Meetings.
