@@ -35,8 +35,6 @@ summary: We examine directors' skill diversity, through Regulation S-K's
 date: 2018-12-00T00:00:00.000Z
 ---
 - Best Paper Award in Corporate Finance in the 2014 FMA Asia Meetings.
-
 - Shortlisted for the Best Paper Award in Corporate Finance in the 2015 FMA Meetings.
-
 - {{% staticref "https://corpgov.law.harvard.edu/2018/08/14/director-skill-sets/" "newtab"  %}}Blog post{{% /staticref %}} about the paper at the Harvard Law School Forum on Corporate Governance and Financial Regulation.
 
