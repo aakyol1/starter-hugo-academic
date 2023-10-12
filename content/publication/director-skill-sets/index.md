@@ -19,7 +19,10 @@ abstract: Directors are not one-dimensional. We characterize their skill sets by
 draft: false
 featured: false
 tags:
-  - corporate governance directors director skills regulation
+  - corporate governance
+  - directors
+  - director skills
+  - regulation
 categories:
   - Publications
 image:
@@ -31,3 +34,8 @@ summary: We examine directors' skill diversity, through Regulation S-K's
   commonality in skill sets correlates with improved firm performance
 date: 2018-12-00T00:00:00.000Z
 ---
+Best Paper Award in Corporate Finance in the 2014 FMA Asia Meetings.
+
+Shortlisted for the Best Paper Award in Corporate Finance in the 2015 FMA Meetings.
+
+Blog post about the paper at the Harvard Law School Forum on Corporate Governance and Financial Regulation.
