@@ -32,5 +32,5 @@ image:
 summary: We examine directors' skill diversity, through Regulation S-K's
   requirements, and report that skill diversity varies across boards. Greater
   commonality in skill sets correlates with improved firm performance.
-date: 2018-12-00T00:00:00.000Z
+date: 2018-12-01T01:01:01.001Z
 ---
