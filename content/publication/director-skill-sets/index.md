@@ -1,7 +1,7 @@
 ---
 title: Director skill sets
 publication_types:
-  - "2"
+  - "article-journal"
 authors:
   - Renée Adams
   - Ali C. Akyol
@@ -34,3 +34,6 @@ summary: We examine directors' skill diversity, through Regulation S-K's
   commonality in skill sets correlates with improved firm performance.
 date: 2018-12-01T01:01:01.001Z
 ---
+- Best Paper Award in Corporate Finance in the 2014 FMA Asia Meetings.
+- Shortlisted for the Best Paper Award in Corporate Finance in the 2015 FMA Meetings.
+- {{% staticref "https://corpgov.law.harvard.edu/2018/08/14/director-skill-sets/" "newtab"  %}}Blog post{{% /staticref %}} about the paper at the Harvard Law School Forum on Corporate Governance and Financial Regulation.
