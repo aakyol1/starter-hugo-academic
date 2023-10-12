@@ -34,5 +34,5 @@ summary: In 2009, the Securities and Exchange Commission (SEC) reformed
   value of shareholder empowerment. Using different control groups and various
   cross-sectional tests, we find that the reform did not increase average equity
   values.
-date: 2017-05-00T00:00:00.000Z
+date: 2017-05-01T01:01:01.001Z
 ---
