@@ -1,7 +1,7 @@
 ---
 title: Director skill sets
 publication_types:
-  - "article-journal"
+  - "2"
 authors:
   - Renée Adams
   - Ali C. Akyol
@@ -32,7 +32,5 @@ image:
 summary: We examine directors' skill diversity, through Regulation S-K's
   requirements, and report that skill diversity varies across boards. Greater
   commonality in skill sets correlates with improved firm performance.
-date: 2017-05-00T00:00:00.000Z
+date: 2023-10-12T21:39:40.031Z
 ---
-
-
