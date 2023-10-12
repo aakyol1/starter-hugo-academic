@@ -37,4 +37,4 @@ date: 2018-12-01T01:01:01.001Z
 - Best Paper Award in Corporate Finance in the 2014 FMA Asia Meetings.
 - Shortlisted for the Best Paper Award in Corporate Finance in the 2015 FMA Meetings.
 - [Blog post](https://corpgov.law.harvard.edu/2018/08/14/director-skill-sets/) about the paper at the Harvard Law School Forum on Corporate Governance and Financial Regulation.
-- {{% staticref "https://corpgov.law.harvard.edu/2018/08/14/director-skill-sets/" "newtab"  %}}Blog post{{% /staticref %}} about the paper at the Harvard Law School Forum on Corporate Governance and Financial Regulation.
+
