@@ -1,12 +1,12 @@
 ---
 title: Director skill sets
 publication_types:
-  - "2"
+  - "article-journal"
 authors:
   - Renée Adams
   - Ali C. Akyol
   - Patrick Verwijmeren
-doi: https://doi.org/https://doi.org/10.1016/j.jfineco.2018.04.010
+doi: https://doi.org/10.1016/j.jfineco.2018.04.010
 publication: Journal of Financial Economics
 abstract: Directors are not one-dimensional. We characterize their skill sets by
   exploiting Regulation S-K’s 2009 requirement that U.S. firms must disclose the
@@ -29,5 +29,5 @@ image:
 summary: We examine directors' skill diversity, through Regulation S-K's
   requirements, and report that skill diversity varies across boards. Greater
   commonality in skill sets correlates with improved firm performance
-date: 2023-10-12T21:24:26.694Z
+date: 2018-12-00T00:00:00.000Z
 ---
