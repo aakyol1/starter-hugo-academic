@@ -6,7 +6,7 @@ publication_types:
 authors:
   - Ali C. Akyol
   - Chi Chong Foo
-doi: https://onlinelibrary.wiley.com/doi/10.1111/j.1468-2443.2012.01159.x
+doi: https://doi.org/10.1111/j.1468-2443.2012.01159.x
 publication: International Review of Finance
 abstract: Using repurchase reasons provided by Australian companies for their
   stock repurchase programs, we ask if the market’s response is different across
