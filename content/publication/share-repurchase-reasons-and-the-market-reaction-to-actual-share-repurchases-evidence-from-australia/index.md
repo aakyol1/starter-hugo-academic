@@ -2,7 +2,7 @@
 title: "Share repurchase reasons and the market reaction to actual share
   repurchases: Evidence from Australia"
 publication_types:
-  - "2"
+  - "article-journal"
 authors:
   - Ali C. Akyol
   - Chi Chong Foo
@@ -40,5 +40,5 @@ summary: "Analyzing Australian companies' stock repurchases based on their
   positive stock price reaction. These firms repurchase fewer shares and perform
   better in the year following repurchases. Undervaluation motives signal
   strength, and management statements hold value for the market. "
-date: 2023-10-12T22:10:35.835Z
+date: 2012-07-01T01:01:01.001Z
 ---
