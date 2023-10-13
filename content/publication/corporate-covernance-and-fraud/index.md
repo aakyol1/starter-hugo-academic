@@ -2,7 +2,7 @@
 title: Corporate covernance and fraud
 subtitle: ""
 publication_types:
-  - "6"
+  - "section-book"
 authors:
   - Ali C. Akyol
 doi: https://doi.org/10.1108/978-1-78973-417-120201001
@@ -21,10 +21,13 @@ image:
   filename: featured.png
   focal_point: Smart
   preview_only: true
+tags:
+  - corporate governance
+  - fraud
 summary: This chapter examines the relationship between corporate governance and
   corporate fraud with a focus on internal and external governance
   characteristics and how they affect the likelihood of fraud. The chapter also
   examines the evidence on governance-related changes in firms affected by
   fraud.
-date: 2023-10-12T22:18:47.255Z
+date: 2020-10-01T01:01:01.001Z
 ---
