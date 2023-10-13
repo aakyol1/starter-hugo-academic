@@ -2,7 +2,7 @@
 title: Corporate covernance and fraud
 subtitle: ""
 publication_types:
-  - "section-book"
+  - "book-section"
 authors:
   - Ali C. Akyol
 doi: https://doi.org/10.1108/978-1-78973-417-120201001
