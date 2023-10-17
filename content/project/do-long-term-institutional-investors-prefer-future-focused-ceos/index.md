@@ -12,13 +12,14 @@ tags:
   - temporal focus
   - institutional investors
   - long-term investors
+date: 2016-10-01T00:00:00Z
 categories:
   - Working Papers
 image:
   filename: featured
   focal_point: Smart
   preview_only: false
-date: 2016-10-01T00:00:00Z
+
 ---
 
 
