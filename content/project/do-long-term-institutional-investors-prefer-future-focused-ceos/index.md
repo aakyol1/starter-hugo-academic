@@ -8,7 +8,10 @@ authors:
   - Ali C. Akyol
   - Atefeh Maghzi
 tags:
-  - agency theory temporal focus institutional investors long-term investors
+  - agency theory
+  - temporal focus
+  - institutional investors
+  - long-term investors
 categories:
   - Working
 image:
