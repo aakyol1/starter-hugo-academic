@@ -2,6 +2,7 @@
 title: Do long-term institutional investors prefer future-focused CEOs?
 subtitle: ""
 summary: We report that institutional investors hold more stock in firms with past-focused CEOs.
+date: 2022-10-01T00:00:00Z
 draft: false
 featured: false
 authors:
@@ -12,7 +13,7 @@ tags:
   - temporal focus
   - institutional investors
   - long-term investors
-date: 2016-10-01T00:00:00Z
+
 categories:
   - Working Papers
 image:
