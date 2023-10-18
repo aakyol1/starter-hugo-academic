@@ -1,7 +1,7 @@
 ---
 title: Director skill networks
-# date: 2021-05-10
-show_date: false 
+date: 2021-05-10T00:00:00.000Z
+# show_date: false 
 summary: We investigate how firms select directors from other company boards.
   Our results indicate that firms select directors that fit into the current
   pool of directors.
