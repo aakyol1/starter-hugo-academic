@@ -11,14 +11,16 @@ tags:
   - shareholder rights
   - corporate governance
 categories:
-  - WorkingPapers
+  - Working Papers
 links:
   - url: https://papers.ssrn.com/sol3/papers.cfm?abstract_id=3359576
-    icon: file-pdf
-    icon_pack: far
+    name: PDF
+    
 image:
   filename: featured
   focal_point: Smart
   preview_only: false
 ---
 I examine a decision made by a corporate vote tabulating firm that removed the ability of proposal sponsors to obtain interim vote tally data in exempt solicitation campaigns. The decision by the firm reduced the probability of the implementation of shareholder proposals and I use it to infer whether the market views that shareholder proposals create value. I find that the market’s reaction to the decision was, overall, positive and its reaction increased depending on the type of proposal and its sponsor. The results suggest that some shareholder proposals are not viewed as value creating by the market and indicate that it is important to understand how shareholders get involved in corporate affairs to correctly gauge the benefits and costs of shareholder proposals.
+
+- [Blog post](https://corpgov.law.harvard.edu/2018/08/14/director-skill-sets/) about the paper at the Harvard Law School Forum on Corporate Governance and Financial Regulation.
