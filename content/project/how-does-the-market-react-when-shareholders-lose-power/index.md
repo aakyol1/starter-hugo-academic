@@ -1,5 +1,6 @@
 ---
-title: How does the market react when shareholders lose power?
+title: "Intermediary power in corporate elections and the value of shareholder
+  proposals: a quasi-natural experiment"
 date: 2021-06-07T04:09:11.114Z
 summary: This study shows that the market reacts positively when sharehholders
 draft: false
@@ -15,7 +16,6 @@ categories:
 links:
   - url: https://papers.ssrn.com/sol3/papers.cfm?abstract_id=3359576
     name: PDF
-    
 image:
   filename: featured
   focal_point: Smart
